@@ -5,3 +5,5 @@ inhwa branch에서 pull 해온 후 파일 수정해서 commit push해보겠습�
 hyebin branch에서 pull 해온 후 파일 수정해서 commit push해보겠습니다.
 
 jiwoo branch에서 pull 해온 후 파일 수정해서 commit push해보겠습니다.
+
+taewo branch에서 pull 해온 후 파일 수정해서 commit push해보겠습니다.
